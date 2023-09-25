@@ -28,7 +28,6 @@ It's build around an MVVM architecture using the following techstack:
 * Better input sanitization of the current lat/long input fields.
 * Testing.
 
-
-
+<img src="https://github.com/codrut-topliceanu/DoctorWeather/assets/60002907/50cf29d1-9294-42e8-9735-ef900e6bd84a" width="200">
 
 
