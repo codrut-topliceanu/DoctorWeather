@@ -16,7 +16,7 @@ It's build around an MVVM architecture using the following techstack:
 1. Download source code.
 2. In the root folder of the project create a new file called `apikey.properties`.
 3. Get an API key by signing up here: https://openweathermap.org/api/ ).
-4. Add the following lines to `apikey.properrties`: 
+4. Add the following lines to `apikey.properties`: 
 `API_KEY = "your api key"`
 `DEFAULT_LAT = "your preferred default latitude"`
 `DEFAULT_LON = "your preferred default longitude"`
